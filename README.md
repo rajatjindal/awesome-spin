@@ -1,5 +1,14 @@
 # awesome-spin
 
+**Diclaimers**:
+
+- I work for [Fermyon](https://www.fermyon.com), the company behind the project `spin`
+- This is a community driven list of apps and not an official project.
+- This list is to showcase and inspire ideas. Many of these projects are usable but NOT production ready
+
+
+## so what is it
+
 A list of awesome [`spin`](https://www.fermyon.com/spin) apps to inspire more of these
 
 - [Bots](#bots)
