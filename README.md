@@ -35,6 +35,7 @@ A list of awesome [`spin`](https://www.fermyon.com/spin) apps to inspire more of
 ## Webapps
 
 - [spin-planetscale-f1](https://github.com/radu-matei/spin-planetscale-f1) - F1 Championship Stats with PlanetScale and Fermyon Cloud
+- [Github Badges](https://github.com/karthik2804/spin-gh-badges) - dynamically create status badges based on content from github gists
 
 
 
