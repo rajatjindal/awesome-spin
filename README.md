@@ -1,6 +1,6 @@
 # awesome-spin
 
-**Diclaimers**:
+**Disclaimers**:
 
 - I work for [Fermyon](https://www.fermyon.com), the company behind the project `spin`
 - This is a community driven list of apps and not an official project.
