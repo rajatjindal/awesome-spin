@@ -1,6 +1,6 @@
 # awesome-spin
 
-A list of awesome spin apps to inspire more of these
+A list of awesome [`spin`](https://www.fermyon.com/spin) apps to inspire more of these
 
 - [CMS](#cms)
 - [Games](#games)
